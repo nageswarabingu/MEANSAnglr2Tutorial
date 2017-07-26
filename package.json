@@ -1,0 +1,28 @@
+{
+  "name": "mean-ang212",
+  "version": "1.0.0",
+  "description": "MEAN Stack Angular 2 App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nageswarabingu/MEANSAnglr2Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular"
+  ],
+  "author": "Nageswara Bingu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nageswarabingu/MEANSAnglr2Tutorial/issues"
+  },
+  "homepage": "https://github.com/nageswarabingu/MEANSAnglr2Tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
